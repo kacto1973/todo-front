@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/tasks";
+const API_URL = "https://todo-back-dsfv.onrender.com/tasks";
 
 const taskInput = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
